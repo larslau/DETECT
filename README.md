@@ -18,7 +18,7 @@ Model components
 The first component in the model is an embedding that maps the medical events to a 30-dimensional vector space representation
 
 <p align="center">
-<img src="https://i.imgur.com/e9xG3Vi.png" width="1000">
+<img src="https://i.imgur.com/Rtrlos6.png" width="1000">
 </p>
 
 The second component is a memory module that stores an internal representation of the event history of the invidiual patient. This is needed for creating a unified representation of the patient risk that should not depend too much on number of observed events or follow-up time. The module uses the [gated recurrent unit](https://en.wikipedia.org/wiki/Gated_recurrent_unit) architecture.
