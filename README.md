@@ -45,7 +45,7 @@ Requirements:
 
 Code output
 -------------------------------
-`DETECT_prediction_example.py` will output predicted probabilities for future first-episode psychosis (FEP) for the artificial patient data in  `example_data`. The dynamic predictions of the first artificial patient are illustrated in the patient journey plot below. 
+`DETECT_prediction_example.py` will output predicted probabilities for future first-episode psychosis (FEP) for the artificial patient data in  `example_data`. The dynamic predictions of the first artificial patient are illustrated in the patient journey plot below. Note that the predicted FEP probabilities are in the context of a 1:1 matched case-control study where the prior risk for FEP is 0.5. In non-matched studies, the predicted probabilities should be adjusted based on prevalence estimates.
 
 <p align="center">
 <img src="https://i.imgur.com/S8aJxd6.png" width="1000">
