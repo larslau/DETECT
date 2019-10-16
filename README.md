@@ -30,8 +30,7 @@ The third and final component is a prediction module which consists of a fully c
 Code structure
 -------------------------------
 Requirements:
-*Create a virtual environment in Python 3.6.7*
-*Install the requirements in* `requirements.txt`
+*Create a virtual environment in Python 3.6.7 and install the requirements in* `requirements.txt`
 
 - `example_data` contains artificial patient data to illustrate the data structure
   - `all_medical_events.csv` all eligible medical events that DETECT can take as input
