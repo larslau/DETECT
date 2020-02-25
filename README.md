@@ -49,3 +49,22 @@ Code output
 <p align="center">
 <img src="https://i.imgur.com/HiVrG2L.png" width="1000">
 </p>
+
+License
+-------------------------------
+Copyright (c) IBM Corporation 2020
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+   
+Licenses to standards or ontologies may be governed by separate terms 
+depending on how the end user of the code intends to use or modify it.
