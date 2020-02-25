@@ -1,9 +1,6 @@
 # DETECT
 Recurrent neural network model for Dynamic ElecTronic hEalth reCord deTection (DETECT) of individuals at risk of a first-episode of psychosis
 
-**Note** *the code for DETECT is not yet available in this repository, but will made available soon.*
-
-
 Model structure
 --------------------
 DETECT a recurrent neural network model built for predicting risk of future psychosis. It was built and trained using de-identified electronic health record data from the [IBM Explorys database](https://www.ibm.com/marketplace/explorys-ehr-data-analysis-tools).
