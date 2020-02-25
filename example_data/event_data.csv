@@ -1,0 +1,27 @@
+patient_id,event_date,event_desc,time_since_last_event,outcome
+-99999,11/7/2009,first_explorys_date,0,1
+-99999,11/7/2009,dx: allergic rhinitis,0,1
+-99999,12/8/2009,dx: allergic rhinitis,31,1
+-99999,1/7/2010,rx: diphenhydramine,30,1
+-99999,3/22/2010,obser: Body temperature: normal,0,1
+-99999,3/22/2010,obser: Body weight [Percentile] Per age: normal,0,1
+-99999,3/22/2010,dx: exacerbation of asthma,0,1
+-99999,3/22/2010,dx: hypertrophy of adenoids,0,1
+-99999,3/22/2010,obser: Body mass index (BMI) [Percentile]: normal,0,1
+-99999,3/22/2010,rx: albuterol,0,1
+-99999,3/22/2010,rx: fluticasone,0,1
+-99999,3/22/2010,obser: Body mass index (BMI) [Ratio]: normal,0,1
+-99999,3/22/2010,rx: prednisone,74,1
+-99999,7/22/2010,"dx: major depression, single episode",122,1
+-99999,9/14/2010,dx: severe depressed bipolar i disorder without psychotic features,0,1
+-99999,9/14/2010,procedure: group psychotherapy,54,1
+-99999,9/24/2010,procedure: individual psychotherapy,0,1
+-99999,9/24/2010,dx: bipolar disorder,0,1
+-99999,9/24/2010,rx: lithium carbonate,0,1
+-99999,10/4/2010,obser: Lithium [Moles/volume] in Serum or Plasma: abnormal high,10,1
+-99999,10/14/2010,obser: Lithium [Moles/volume] in Serum or Plasma: normal,10,1
+-88888,9/24/2009,first_explorys_date,0,0
+-88888,9/24/2010,obser: Body temperature: normal,365,0
+-88888,9/24/2011,dx: allergic rhinitis,365,0
+-88888,9/24/2012,dx: acute upper respiratory infection,366,0
+-88888,9/24/2013,rx: ibuprofen,365,0

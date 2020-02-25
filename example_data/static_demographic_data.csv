@@ -1,0 +1,3 @@
+patient_id,std_gender,birth_year,ethnicity_declined,ethnicity_non_hispanic,ethnicity_hispanic,ethnicity_other,ethnicity_unknown,race_caucasian,race_african_american,race_asian,race_hispanic_latino,race_multi_racial,race_other,race_refused_to_classify,race_unknown
+-99999,2,1990,0,1,0,0,0,1,0,0,0,0,0,0,0
+-88888,1,1972,0,1,0,0,0,0,0,0,0,0,0,0,0
