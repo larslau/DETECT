@@ -4,6 +4,11 @@ Recurrent neural network model for Dynamic ElecTronic hEalth reCord deTection (D
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3701836.svg)](https://doi.org/10.5281/zenodo.3701836)
 
 
+If you use this code or data, please cite
+
+Raket, Lars Lau, Jörn Jaskolowski, Bruce J. Kinon, Jens Christian Brasen, Linus Jönsson, Allan Wehnert, and Paolo Fusar-Poli. "Dynamic ElecTronic hEalth reCord deTection (DETECT) of individuals at risk of a first episode of psychosis: a case-control development and validation study." *The Lancet Digital Health* (2020). [DOI: 10.1016/S2589-7500(20)30024-8](https://doi.org/10.1016/S2589-7500(20)30024-8)
+
+
 Model structure
 --------------------
 DETECT a recurrent neural network model built for predicting risk of future psychosis. It was built and trained using de-identified electronic health record data from the [IBM Explorys database](https://www.ibm.com/marketplace/explorys-ehr-data-analysis-tools).
